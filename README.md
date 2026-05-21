@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/05/21、雨に濡れるお花の画像集 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/05/21、雨に濡れるお花達の画像集 !!!</marquee></span></h1>
 
 
 
@@ -343,7 +343,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026May21、雨に濡れるお花の画像集でした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026May21、雨に濡れるお花達の画像集でした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
