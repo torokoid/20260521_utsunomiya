@@ -177,7 +177,7 @@ p.note { display: none; }
 <a href="20260521_004.JPG" target="_blank"><img src="20260521_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260521_005.JPG" target="_blank"><img src="20260521_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">スーパーで買い物して、お花達をパチリ</span></h2>
+<h2><span class="yellow">スーパーで買い物して、お花屋さんのお花達をパチリ</span></h2>
 <a href="20260521_006.JPG" target="_blank"><img src="20260521_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260521_007.JPG" target="_blank"><img src="20260521_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260521_008.JPG" target="_blank"><img src="20260521_008.JPG" alt="サンプル画像" class="responsive-media"></a>
